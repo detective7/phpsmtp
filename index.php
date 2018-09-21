@@ -27,7 +27,7 @@ $mail->SMTPAuth = true;
 $mail->Username = 'xxx@163.com';
 
 // SMTP 密码
-$mail->Password = 'xxxxxxxx';
+$mail->Password = 'xxxxxxxxx';
 
 // 加密方式 TLS或ssl 根据smtp服务器商定
 $mail->SMTPSecure = 'ssl';
